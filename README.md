@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Natasha!
 
-<!--
-**natashasantosf/natashasantosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python developer** focused on **automation and web scraping**.  
+I love creating practical and efficient solutions that save time and solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies I use
+- 🐍 Python (Flask, Selenium, BeautifulSoup, PyAutoGUI)
+- ⚙️ Automation and web scraping
+- 🌐 Simple API development
+- 🧰 Integration with tools (n8n)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Technologies |
+
+| Web scraping of products | Price scraping and automatic report generation | Selenium, Pandas |
+
+| Simple Flask API | JSON API with two endpoints for demonstration | Flask, Selenium, Pandas |
+
+---
+
+## 💡 About me
+- 🎯 Open to freelance projects on **UpWork**
+- 💬 Languages: Portuguese (native) / English (fluent)
+- 💻 I'm an organized and detail-oriented professional, committed to delivering high-quality work.
+- 🤝 I value clear communication and always focus on understanding the client’s needs to deliver precise and timely results.
+  
+📫 **Contato:** natasha.s.felipel@gmail.com  
+🌐 **UpWork:** https://www.upwork.com/freelancers/~013c7057dae33df28b?mp_source=
+---
+💬 *Let’s work together to bring your ideas to life with Python!*
