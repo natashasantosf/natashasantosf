@@ -15,11 +15,11 @@ I love creating practical and efficient solutions that save time and solve real 
 
 ## 🚀 Projects
 
-| Project | Description | Technologies |
+Project | Description | Technologies
 
-| Web scraping of products (https://github.com/natashasantosf/web-price-automation) | Price scraping and automatic report generation | Selenium, Pandas |
+Web scraping of products (https://github.com/natashasantosf/web-price-automation) | Price scraping and automatic report generation | Selenium, Pandas
 
-| Simple Flask API (https://github.com/natashasantosf/api-caixa-imoveis) | JSON API with two endpoints for demonstration | Flask, Selenium, Pandas |
+Simple Flask API (https://github.com/natashasantosf/api-caixa-imoveis) | JSON API with two endpoints for demonstration | Flask, Selenium, Pandas
 
 ---
 
