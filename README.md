@@ -24,12 +24,9 @@ I love creating practical and efficient solutions that save time and solve real 
 ---
 
 ## 💡 About me
-- 🎯 Open to freelance projects on **UpWork**
 - 💬 Languages: Portuguese (native) / English (fluent)
 - 💻 I'm an organized and detail-oriented professional, committed to delivering high-quality work.
 - 🤝 I value clear communication and always focus on understanding the client’s needs to deliver precise and timely results.
   
-📫 **Contato:** natasha.s.felipel@gmail.com  
-🌐 **UpWork:** https://www.upwork.com/freelancers/~013c7057dae33df28b?mp_source=
 ---
 💬 *Let’s work together to bring your ideas to life with Python!*
